@@ -1,5 +1,3 @@
-def 'board'
-  'board' = [" ", " ", " ", " ", " ", " ", " ", " ", " ".] 
-end
+  board = [" ", " ", " ", " ", " ", " ", " ", " ", " "] 
   
   # Define the variable board below.
