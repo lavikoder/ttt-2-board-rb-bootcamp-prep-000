@@ -1,2 +1,5 @@
 def board
-  board = [" ", " ", " ", " ", " ", " ", " ", " ", " ".] # Define the variable board below.
+  board = [" ", " ", " ", " ", " ", " ", " ", " ", " ".] 
+end
+  
+  # Define the variable board below.
